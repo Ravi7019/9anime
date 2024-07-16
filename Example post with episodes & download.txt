@@ -63,7 +63,7 @@
     <ul id="VideoVard" class="serverEpisode">
       <li>
         <div class="DagPlayOpt" data-embed="https://videovard.sx/e/05aq1d1pqdde?autostart=true" data-id="Server-1">
-          <span>01</span> </div>
+          <span>Watch</span> </div>
       </li>
       <li>
     </ul>
