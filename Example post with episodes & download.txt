@@ -2,39 +2,6 @@
 <!--[ Thumbnail ]-->
 <div class="separator" style="clear: both;"><a href="https://www.themoviedb.org/t/p/original/2s8yKCqFk6CSGWznH99FP4wIVy3.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="Fantasia Sango – Realm of Legends" border="0" data-original-height="800" data-original-width="533" src="https://www.themoviedb.org/t/p/original/2s8yKCqFk6CSGWznH99FP4wIVy3.jpg"/></a></div>
 
-<!--[ Synopsis ]-->
-
-<p id="synopsis">With another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise—a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised—but out of the four men, only the cursed Shield Hero agrees to help.</p>
-
-
-<!--[ Extra information ]-->
-
-<div id="extra-info">
-
-  <div>Studios: <span>
-    <a href="/" title='LIDENFILMS'>LIDENFILMS</a>
-    </span>
-  </div>
-
-  <div>Date aired: <span> Jan 06, 2022 to Mar 31, 2022 </span>
-  </div>
-
-  <div>Premiered: <span>
-    <a href="/search?q=Action|Adventure">Winter 2022</a>
-    </span>
-  </div>
-
-  <div>Duration: <span>23 min/ep</span>
-  </div>
-
-  <div>Quality: <span>
-    <span>HD</span>
-    </span>
-  </div>  
-
-</div>
-
-
 <!--[ Streaming Player ]-->
 
 <div id="shadow"></div>
@@ -89,8 +56,8 @@
 <div class="server_option">
   <div class="tabs servers">
     <span class="tablinks" id="serverOpen" onclick="openCity(event, 'VideoVard')">VideoVard</span>
-    <span class="tablinks" onclick="openCity(event, 'Streamtape')">Streamtape</span>
-    <span class="tablinks" onclick="openCity(event, 'Mp4upload')">Mp4upload</span>
+    <span class="tablinks" onclick="openCity(event, 'Streamtape')">Download</span>
+    <span class="tablinks" onclick="openCity(event, 'Mp4upload')">Download</span>
   </div>
   <div id="server">
     <ul id="VideoVard" class="serverEpisode">
@@ -99,49 +66,6 @@
           <span>01</span> </div>
       </li>
       <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/m0be9m6fdmky?autostart=true" data-id="Server-1">
-          <span>02</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/sw5x15pcqxuq?autostart=true" data-id="Server-1">
-          <span>03</span> </div>
-      </li>       
-       <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/05aq1d1pqdde?autostart=true" data-id="Server-1">
-          <span>04</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/m0be9m6fdmky?autostart=true" data-id="Server-1">
-          <span>05</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/sw5x15pcqxuq?autostart=true" data-id="Server-1">
-          <span>06</span> </div>
-      </li>
-       <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/05aq1d1pqdde?autostart=true" data-id="Server-1">
-          <span>07</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/m0be9m6fdmky?autostart=true" data-id="Server-1">
-          <span>08</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/sw5x15pcqxuq?autostart=true" data-id="Server-1">
-          <span>09</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/05aq1d1pqdde?autostart=true" data-id="Server-1">
-          <span>10</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/m0be9m6fdmky?autostart=true" data-id="Server-1">
-          <span>11</span> </div>
-      </li>
-      <li>
-        <div class="DagPlayOpt" data-embed="https://videovard.sx/e/sw5x15pcqxuq?autostart=true" data-id="Server-1">
-          <span>12</span> </div>
-      </li>      
     </ul>
   </div>
 </div>
@@ -153,29 +77,30 @@
     <table>
       <thead>
         <tr>
-          <th>Server</th>
-          <th>Subtitle</th>
-          <th>Kualitas</th>
+          <th>Size</th>
+          <th>Quality</th>
           <th>Link</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><span class="num">#1</span> MEGA</td>
-          <td>Sub</td>
-          <td><span>HD</span></td>
+          <td><span class="num">#1</span> 400MB</td>
+          <td><span>Kannada</span></td>
           <td><a class="btn sm rnd" href="#" rel="nofollow" target="_blank">Download</a></td>
         </tr>
         <tr>
-          <td><span class="num">#2</span> Fire</td>
-          <td>Sub</td>
-          <td><span>HD</span></td>
+          <td><span class="num">#2</span> 700MB</td>
+          <td><span>Kannada</span></td>
           <td><a class="btn sm rnd" href="#" rel="nofollow" target="_blank">Download</a></td>
         </tr>
         <tr>
-          <td><span class="num">#3</span> Zippy</td>
-          <td>Sub</td>
-          <td><span>HD</span></td>
+          <td><span class="num">#3</span> 1.4GB</td>
+          <td><span>Kannada</span></td>
+          <td><a class="btn sm rnd" href="#" rel="nofollow" target="_blank">Download</a></td>
+        </tr>
+        <tr>
+          <td><span class="num">#3</span> 2.6GB</td>
+          <td><span>Kannada</span></td>
           <td><a class="btn sm rnd" href="#" rel="nofollow" target="_blank">Download</a></td>
         </tr>
       </tbody>
